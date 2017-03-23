@@ -1,0 +1,10 @@
+SECRET_KEY=5(15ds+i2+%ik6z&!yer+ga9m=e%jcqiz_5wszg)r-z!2--b2d
+PRODUCTION=on
+DB_NAME=lascilab
+DB_USER=lascilab
+DB_PASS=lascilab
+DB_SERVICE=postgres
+DB_PORT=5432
+POSTGRES_DB=lascilab
+POSTGRES_PASSWORD=lascilab
+POSTGRES_USER=lascilab
